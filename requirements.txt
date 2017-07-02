@@ -1,0 +1,6 @@
+jupyter
+matplotlib
+sklearn
+tqdm
+tensorflow-gpu==1.0.1
+scipy
